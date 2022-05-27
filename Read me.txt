@@ -1,0 +1,9 @@
+I created Wait Stats Hist and change Blitz Dashboard. 
+
+A filter can be done on CPU, LOCK, IO, Latch
+
+over time ie long period,
+over the week day name
+over day and time with blitz
+dive in blitzfirst visual for query problem => time => what we have in blitzCache visual(Query Detail tab) at that time => filter with HourOfDay => Get the query 'QueryText' on the top visual
+I'm planning to save these save on daily basis for future reference.
